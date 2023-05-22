@@ -1,6 +1,6 @@
 # React UI and Node.js/Express Back-end Movie Search App
 <div style="display: flex;">
-  <img width="500" alt="Screenshot 2023-05-22 at 10 51 25 AM" src="https://github.com/thafsi-pv/Movie-search/assets/22377348/c3447b03-896e-477d-8171-f93443a71dc6"><img width="500" alt="Screenshot 2023-05-22 at 10 51 09 AM" src="https://github.com/thafsi-pv/Movie-search/assets/22377348/530220e2-dc02-47c4-8943-516b6a84c2d9">
+  <img width="400" alt="Screenshot 2023-05-22 at 10 51 25 AM" src="https://github.com/thafsi-pv/Movie-search/assets/22377348/c3447b03-896e-477d-8171-f93443a71dc6"><img width="400" alt="Screenshot 2023-05-22 at 10 51 09 AM" src="https://github.com/thafsi-pv/Movie-search/assets/22377348/530220e2-dc02-47c4-8943-516b6a84c2d9">
   </div>
 
 
