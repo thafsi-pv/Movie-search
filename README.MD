@@ -1,4 +1,9 @@
 # React UI and Node.js/Express Back-end Movie Search App
+<div style={display:flex}>
+  <img width="700" alt="Screenshot 2023-05-22 at 10 51 25 AM" src="https://github.com/thafsi-pv/Movie-search/assets/22377348/c3447b03-896e-477d-8171-f93443a71dc6"><img width="700" alt="Screenshot 2023-05-22 at 10 51 09 AM" src="https://github.com/thafsi-pv/Movie-search/assets/22377348/530220e2-dc02-47c4-8943-516b6a84c2d9">
+  </div>
+
+
 
 This is a web app that allows users to search movies using a reactive UI that interacts with a Node.js/Express back-end API. The back-end API provides a list of all movies by default and allows users to search for specific movies using a search query parameter. The API uses the `cors` middleware to allow cross-origin resource sharing. The application uses the debounce method to make the search more efficient.
 
