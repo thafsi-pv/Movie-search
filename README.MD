@@ -18,7 +18,7 @@ The back-end API is built using Node.js with Express.js framework The app is bui
 
 The API uses the following routes:
 
-- **GET /api/movies:query** to get all the movies `(http://localhost:4000/movies)` based on the query, if query is null return all movie list
+- **GET /api/movies:query** to get all the movies `(http://localhost:5175/api/movies)` based on the query, if query is null return all movies
 
 ## Implementation Details
 
